@@ -1,0 +1,87 @@
+body {
+    background-color: #002b36;
+}
+
+.site {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+h1 {
+    font-family:
+        "SFMono-Regular",
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        Courier,
+        monospace;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    color: #d33682;
+    margin-bottom: 0;
+}
+h2,h3,h4,h5,h6 {
+  font-family:
+      "SFMono-Regular",
+      Consolas,
+      "Liberation Mono",
+      Menlo,
+      Courier,
+      monospace;
+  font-weight: 100;
+  color: #859900;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+p, ul, li {
+  font-family:
+      "SFMono-Regular",
+      Consolas,
+      "Liberation Mono",
+      Menlo,
+      Courier,
+      monospace;
+  font-size: 1.25rem;
+  color: #839496;
+  line-height: 1.65;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+li span {
+  font-size: 1rem;
+}
+
+a {
+  color: #b58900;
+  text-decoration: none;
+}
+a:hover {
+  color: #cb4b16;
+}
+
+.nameplate {
+  margin-bottom: 4rem;
+}
+
+.section {
+  margin: 4rem 0;
+}
