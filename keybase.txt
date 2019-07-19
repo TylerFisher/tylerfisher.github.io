@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/tylrfishr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tylerjfisher.com
+  * I am tylrfishr (https://keybase.io/tylrfishr) on keybase.
+  * I have a public key with fingerprint 02CC 8F1D CD3F 9F3E 9043  573E C4F9 D233 89B2 E288
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d20ebf36f1aa1e20fd50e3777247d6d1b8b5160457f50a2b10bbaf0778457c410a",
+      "fingerprint": "02cc8f1dcd3f9f3e9043573ec4f9d23389b2e288",
+      "host": "keybase.io",
+      "key_id": "c4f9d23389b2e288",
+      "kid": "010157f80aca2a54c75b13820f3f1679fe828733bbdb6e2a164eaa4aa45000d389aa0a",
+      "uid": "247248816bc2a483830cb16d70b26900",
+      "username": "tylrfishr"
+    },
+    "service": {
+      "hostname": "tylerjfisher.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1563550818,
+  "expire_in": 157680000,
+  "prev": "e132db5d071a319bfb1a3bc59f4d09204e22de5e25f98cb6e57c72ce45244207",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMN4AnicbVJ7UFRVHN6VYoSkNQNyCgfmNqHJhue+765ajGXRjCWLBBmP7T7Ohctj
+d7n7QFqorAxRIhRTxkkcnMQ22EJrxkEJ4zEqIjMqLUuBqGQiUEiGzvBw6V4mp3+a
+OTO/Ob/zfd/5vt85nWFBmlBt5/QVvPzE8E5td9shpyYTvcm5Ec4qFCNGN5IHFwrM
+F6DdYc6TBMSIABQDAgYgJ+KUiLIsCjEgCiSAOE3TGEELlIByDEeiFCBIWiQBi3Eo
+4DhWBDTNKC2eQAGL6BFRsmRD2SZLFocqi/E8I6ICL+CiQcShARA4SeOQJ0SDgOE4
+Y+AwiDGMQsyx2lWGYo5j7TBesio9ZWNesPc/+Ie+Aar4YQDLsxhLEjxNcijOKOZx
+EaVogwgZjKFxnOMEjoIYi1IEZFlCWSQAQFAEWXbBt3NBTkmKEQyDUhyPsQSDMzjg
+OZQSaMBhlAEAFWiHsoUtgAraUZwvi5I9R0ZK9YjSdkk8VCerRvkPAuVcFQTleN5a
+oAjYZKvDylvzldMch8NmN6psR7FNhRdBzvyvkJmTLIIyTIXhgrJdsloQI6ogeYek
+KqMkhZMkYFBGj8BtNkmGZklFkDTFKMmAeg90KZIQxTGBIwVAoyyOGjiRUyrHkwaR
+EIABAwTEMAGSECNFA8MrQ1LeksZ4SJAYQWCARtRohRYrYsRRxSebrWjapWwL63DK
+ECltb8t4RKMN1QQ/ukj9ZZrQkKUP/x79ky6wkq05b8rcdepg4lFyfkPDkR//XnJJ
+P/zb3Belb3xYsulKcPFE8+j77drZ/hd6d+tnO0/fI12lfiL8TllITUT677mpWWPV
+ca0hT341PXY2JXa273DFJ6Dx+mhk37KX3o0pkZLX7vAGpKcWH9DAwpZtx0wtwUyU
+pb/3cl/HOxnRYd89Mz14smT7WW1XVd1Y+cSdzfXeUu++ntuBtJsm9r7hYklakO6z
+6A5H0Znljd0642um8UK6OqGwMds95WfcFy9fiNrcbz5XcvX2g5GBa8GJxrtbIv37
+nB90keejAm//WYbofKbIjfMxs24kZEdP+rEv19emiPavh+521M08P+5qqxe1H617
+uTFjquKSWZ7yPbHlXtV61l/bP7nII/b5JmzfTFvpA+eu78m2bW9qsq44vH91U42/
+t9K7/5SnKpWuDouNs4b+ULZuScfTCVl1HlcDFjsT8/nI0FtFq4ORoJGiRP3Ym77W
+zlHnqq2VKx/748VnywaG3Tv94Wsef/37nqMb9xZWDVanLV96/P5V73Bz0qaqoZbM
+4eciahve+3StvjwsZc/u8DZKNzP513FhGX4mzr334NiJa754wZuc1ZfUluBYnHWh
+e03ywCHfr9EnPbKzq2IikDQ3eaNibr62YKh50PNLe4TnVmhq+oqPW02vBCpfrXds
+PaLLC7lVoMsd9974uX/DtxMPTq8y/gPUFNXv
+=YVTW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tylrfishr
+
+==================================================================
